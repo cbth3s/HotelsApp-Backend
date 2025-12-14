@@ -1,0 +1,9 @@
+{
+  "id": 15,
+  "name": "The Shadow Hotel",
+  "address": "404 Dark Alley, Gotham",
+  "stars": 3.8,
+  "distance": 4.4,
+  "image": "/Images/image_15.jpg",
+  "suites_availability": "404:504:604"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "name": "The Crimson Peak",
+  "address": "789 Mountain Pass, Gotham",
+  "stars": 3,
+  "distance": 25,
+  "image": "/Images/image_3.jpg",
+  "suites_availability": "1:2:3:4:5:6"
+}

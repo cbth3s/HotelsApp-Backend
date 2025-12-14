@@ -1,0 +1,9 @@
+{
+  "id": 9,
+  "name": "Sapphire Springs Hotel",
+  "address": "8 Gemstone Road, Metropolis",
+  "stars": 4,
+  "distance": 7.8,
+  "image": "/Images/image_9.jpg",
+  "suites_availability": "7:14:21:28"
+}

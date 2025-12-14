@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "name": "Azure Bay Resort",
+  "address": "45 Ocean Drive, Star City",
+  "stars": 5,
+  "distance": 15.5,
+  "image": "/Images/image_2.jpg",
+  "suites_availability": "55:66:77"
+}

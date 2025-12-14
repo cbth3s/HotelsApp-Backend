@@ -1,0 +1,9 @@
+{
+  "id": 10,
+  "name": "Sunset Vista",
+  "address": "90 Horizon Ave, Star City",
+  "stars": 3,
+  "distance": 12.1,
+  "image": "/Images/image_10.jpg",
+  "suites_availability": "501:502:503:504"
+}

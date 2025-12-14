@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Celestial Grand Hotel",
+  "address": "123 Starlight Avenue, Metropolis",
+  "stars": 4.5,
+  "distance": 1.2,
+  "image": "/Images/image_1.jpg",
+  "suites_availability": "101:202:303:404"
+}

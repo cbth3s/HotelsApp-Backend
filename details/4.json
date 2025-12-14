@@ -1,0 +1,9 @@
+{
+  "id": 4,
+  "name": "Silverstone Inn",
+  "address": "10 Silver Street, Central City",
+  "stars": 2.5,
+  "distance": 5.3,
+  "image": "/Images/image_4.jpg",
+  "suites_availability": "80:90:100"
+}

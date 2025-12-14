@@ -1,0 +1,9 @@
+{
+  "id": 6,
+  "name": "Golden Sands Motel",
+  "address": "33 Coastal Highway, Star City",
+  "stars": 1.5,
+  "distance": 50.7,
+  "image": "/Images/image_6.jpg",
+  "suites_availability": "10:20:30:40"
+}

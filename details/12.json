@@ -1,0 +1,9 @@
+{
+  "id": 12,
+  "name": "North Star Inn",
+  "address": "1200 Polar Way, Central City",
+  "stars": 2,
+  "distance": 150,
+  "image": "/Images/image_12.jpg",
+  "suites_availability": "1:2:3:10"
+}

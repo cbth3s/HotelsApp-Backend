@@ -1,0 +1,9 @@
+{
+  "id": 8,
+  "name": "Maple Creek Lodge",
+  "address": "55 Forest Lane, Central City",
+  "stars": 3.5,
+  "distance": 30.2,
+  "image": "/Images/image_8.jpg",
+  "suites_availability": "12:24:36:48"
+}

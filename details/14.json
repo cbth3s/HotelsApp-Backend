@@ -1,0 +1,9 @@
+{
+  "id": 14,
+  "name": "Starlight Motel",
+  "address": "77 Galaxy Road, Star City",
+  "stars": 1,
+  "distance": 80,
+  "image": "/Images/image_14.jpg",
+  "suites_availability": "1:2:3:4:5"
+}

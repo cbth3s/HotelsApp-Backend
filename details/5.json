@@ -1,0 +1,9 @@
+{
+  "id": 5,
+  "name": "Emerald Gardens",
+  "address": "21 Jade Boulevard, Metropolis",
+  "stars": 4,
+  "distance": 3.1,
+  "image": "/Images/image_5.jpg",
+  "suites_availability": "111:222:333"
+}

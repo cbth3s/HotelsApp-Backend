@@ -1,0 +1,9 @@
+{
+  "id": 13,
+  "name": "Metropolitan Heights",
+  "address": "500 High Street, Metropolis",
+  "stars": 4.2,
+  "distance": 1.5,
+  "image": "/Images/image_13.jpg",
+  "suites_availability": "2501:2502:2503"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 7,
+  "name": "The Onyx Tower",
+  "address": "1 Blackout Skyscraper, Gotham",
+  "stars": 5,
+  "distance": 0.5,
+  "image": "/Images/image_7.jpg",
+  "suites_availability": "1001:2002:3003"
+}

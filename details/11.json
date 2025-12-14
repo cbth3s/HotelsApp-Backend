@@ -1,0 +1,9 @@
+{
+  "id": 11,
+  "name": "The Grand Citadel",
+  "address": "1 Citadel Plaza, Gotham",
+  "stars": 4.8,
+  "distance": 2,
+  "image": "/Images/image_11.jpg",
+  "suites_availability": "10:11:12:13:14:15"
+}
